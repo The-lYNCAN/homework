@@ -1,0 +1,32 @@
+.container{
+    // width: 21%;
+    margin-left: auto;
+    // margin-right: auto;
+}
+
+.submit{
+    margin-left: auto;
+    display: block;
+    margin-right: auto;
+    margin-top: 8%;
+    width: 50%;
+    margin-bottom: auto;
+    background-color: #1d9bf0;
+    border: none;
+    color: white;
+}
+.btn{
+    background-color: #1d9bf0;
+    border: none;
+    color: white;
+    margin: auto;
+    display: block;
+    width: 40%;
+    transition: all .2s;
+}
+
+.btn:hover{
+    color: white;
+    transition: all .2s;
+    box-shadow: #9bd3f8 .01px .01px 1px 6.9px;
+}
